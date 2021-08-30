@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImMuhammadHassan
+- 👋 Hi, I’m Muhammad Hassan.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JQuery.
 - 💞️ I’m looking to collaborate on ...
